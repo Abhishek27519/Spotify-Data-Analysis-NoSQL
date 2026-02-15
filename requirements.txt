@@ -1,0 +1,4 @@
+matplotlib
+pymongo
+requests
+Pillow
